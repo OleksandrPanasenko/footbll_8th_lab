@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|c:\\users\\op101\\onedrive\\desktop\\oop 2nd semester\\8th lab football\\football\\stadiumlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|solutionrelative:stadiumlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|c:\\users\\op101\\onedrive\\desktop\\oop 2nd semester\\8th lab football\\football\\stadium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|solutionrelative:stadium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|c:\\users\\op101\\onedrive\\desktop\\oop 2nd semester\\8th lab football\\football\\playerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|solutionrelative:playerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|c:\\users\\op101\\onedrive\\desktop\\oop 2nd semester\\8th lab football\\football\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|c:\\users\\op101\\onedrive\\desktop\\oop 2nd semester\\8th lab football\\football\\playermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|solutionrelative:playermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|c:\\users\\op101\\onedrive\\desktop\\oop 2nd semester\\8th lab football\\football\\gameslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|solutionrelative:gameslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|c:\\users\\op101\\onedrive\\desktop\\oop 2nd semester\\8th lab football\\football\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|c:\\users\\op101\\onedrive\\desktop\\oop 2nd semester\\8th lab football\\football\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|solutionrelative:date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\stadiummode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|solutionrelative:stadiummode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\getargumentsscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|solutionrelative:getargumentsscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92BD0AD-3E00-4C81-AC8F-2D6E8CC25116}|Football.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StadiumList.cs",
+              "DocumentMoniker": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\StadiumList.cs",
+              "RelativeDocumentMoniker": "StadiumList.cs",
+              "ToolTip": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\StadiumList.cs",
+              "RelativeToolTip": "StadiumList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:06:27.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stadium.cs",
+              "DocumentMoniker": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\Stadium.cs",
+              "RelativeDocumentMoniker": "Stadium.cs",
+              "ToolTip": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\Stadium.cs",
+              "RelativeToolTip": "Stadium.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:01:03.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerList.cs",
+              "DocumentMoniker": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\PlayerList.cs",
+              "RelativeDocumentMoniker": "PlayerList.cs",
+              "ToolTip": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\PlayerList.cs",
+              "RelativeToolTip": "PlayerList.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:55:16.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GamesList.cs",
+              "DocumentMoniker": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\GamesList.cs",
+              "RelativeDocumentMoniker": "GamesList.cs",
+              "ToolTip": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\GamesList.cs",
+              "RelativeToolTip": "GamesList.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAiwHEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:34:40.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAowBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:25:09.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAApwDgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:24:50.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Date.cs",
+              "DocumentMoniker": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\Date.cs",
+              "RelativeDocumentMoniker": "Date.cs",
+              "ToolTip": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\Date.cs",
+              "RelativeToolTip": "Date.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:56:36.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMode.cs",
+              "DocumentMoniker": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\PlayerMode.cs",
+              "RelativeDocumentMoniker": "PlayerMode.cs",
+              "ToolTip": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\PlayerMode.cs",
+              "RelativeToolTip": "PlayerMode.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAIA/wD8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:47:01.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetArgumentsScreen.cs",
+              "DocumentMoniker": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\GetArgumentsScreen.cs",
+              "RelativeDocumentMoniker": "GetArgumentsScreen.cs",
+              "ToolTip": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\GetArgumentsScreen.cs",
+              "RelativeToolTip": "GetArgumentsScreen.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:14:40.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:46:03.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StadiumMode.cs",
+              "DocumentMoniker": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\StadiumMode.cs",
+              "RelativeDocumentMoniker": "StadiumMode.cs",
+              "ToolTip": "C:\\Users\\op101\\OneDrive\\Desktop\\OOP 2nd semester\\8th lab football\\Football\\StadiumMode.cs",
+              "RelativeToolTip": "StadiumMode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:46:27.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

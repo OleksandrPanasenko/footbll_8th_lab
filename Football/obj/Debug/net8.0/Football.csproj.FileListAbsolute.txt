@@ -1,0 +1,14 @@
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\obj\Debug\net8.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\obj\Debug\net8.0\Football.AssemblyInfoInputs.cache
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\obj\Debug\net8.0\Football.AssemblyInfo.cs
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\obj\Debug\net8.0\Football.csproj.CoreCompileInputs.cache
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\bin\Debug\net8.0\Football.exe
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\bin\Debug\net8.0\Football.deps.json
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\bin\Debug\net8.0\Football.runtimeconfig.json
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\bin\Debug\net8.0\Football.dll
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\bin\Debug\net8.0\Football.pdb
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\obj\Debug\net8.0\Football.dll
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\obj\Debug\net8.0\refint\Football.dll
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\obj\Debug\net8.0\Football.pdb
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\obj\Debug\net8.0\Football.genruntimeconfig.cache
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\8th lab football\Football\obj\Debug\net8.0\ref\Football.dll
